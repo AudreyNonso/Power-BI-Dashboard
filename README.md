@@ -25,8 +25,9 @@ Synthetic logistics and produce data with over 150 rows, covering:
 - 4 months of transport records
 
 ## Dashboard Preview
-![Dashboard Overview](https://raw.githubusercontent.com/AudreyNonso/Power-BI-Dashboard/main/screenshots/Dashboard Overview 1.png)
-![Dashboard Overview](https://raw.githubusercontent.com/AudreyNonso/Power-BI-Dashboard/main/screenshots/Dashboard Overview 2.png)
+![Dashboard Overview](https://raw.githubusercontent.com/AudreyNonso/Power-BI-Dashboard/main/screenshots/Dashboard Overview 1.jpg)
+
+![Dashboard Overview](https://raw.githubusercontent.com/AudreyNonso/Power-BI-Dashboard/main/screenshots/Dashboard Overview 2.jpg)
 
 ## Author
 Audrey Nonso
